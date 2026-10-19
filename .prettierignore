@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+bun.lock
+.env
+.codex/skills/LICENSE.yellowkey
+LICENSE
